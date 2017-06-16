@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/getantibody/antibody/cmd/antibody/command"
+	"github.com/akatrevorjay/antibody/cmd/antibody/command"
 	logging "github.com/op/go-logging"
 	"github.com/urfave/cli"
 )

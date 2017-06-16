@@ -3,7 +3,7 @@ package command
 import (
 	"fmt"
 
-	"github.com/getantibody/antibody"
+	"github.com/akatrevorjay/antibody"
 	"github.com/urfave/cli"
 )
 

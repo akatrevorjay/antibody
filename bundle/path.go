@@ -1,6 +1,6 @@
 package bundle
 
-import "github.com/getantibody/antibody/project"
+import "github.com/akatrevorjay/antibody/project"
 
 type pathBundle struct {
 	Project project.Project

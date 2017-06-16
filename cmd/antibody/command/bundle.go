@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/getantibody/antibody"
+	"github.com/akatrevorjay/antibody"
 	"github.com/urfave/cli"
 	"golang.org/x/crypto/ssh/terminal"
 )

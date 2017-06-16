@@ -9,7 +9,7 @@ import (
 
 	"github.com/bradfitz/slice"
 	"github.com/caarlos0/gohome"
-	"github.com/getantibody/antibody/bundle"
+	"github.com/akatrevorjay/antibody/bundle"
 
 	"github.com/op/go-logging"
 )

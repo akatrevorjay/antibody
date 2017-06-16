@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/getantibody/antibody/bundle"
+	"github.com/akatrevorjay/antibody/bundle"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/getantibody/antibody"
+	"github.com/akatrevorjay/antibody"
 	"github.com/stretchr/testify/assert"
 )
 

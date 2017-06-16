@@ -1,5 +1,5 @@
 hash: c0bbd1cf6c0f98488e508e5b1fb5556494fb0c7ed9760ffe7c61e5a191505cea
-updated: 2017-01-30T05:25:16.222714239-08:00
+updated: 2017-06-14T04:18:05.735190362-07:00
 imports:
 - name: github.com/bradfitz/slice
   version: d9036e2120b5ddfa53f3ebccd618c4af275f47da
@@ -8,34 +8,34 @@ imports:
 - name: github.com/getantibody/folder
   version: e65aa38ebeb03e6d6e91b90a637f3b7c17e1b6d6
 - name: github.com/kardianos/osext
-  version: c2c54e542fb797ad986b31721e1baedf214ca413
+  version: ae77be60afb1dcacde03767a8c37337fad28ac14
 - name: github.com/op/go-logging
-  version: 970db520ece77730c7e4724c61121037378659d9
+  version: b2cb9fa56473e98db8caba80237377e83fe44db5
 - name: github.com/urfave/cli
-  version: 347a9884a87374d000eec7e6445a34487c1f4a2b
+  version: cf33a9befefdd6c6ea1a236ab6d546e797a62cbf
 - name: go4.org
-  version: 7ce08ca145dbe0e66a127c447b80ee7914f3e4f9
+  version: 034d17a462f7b2dcd1a4a73553ec5357ff6e6c6e
   subpackages:
   - reflectutil
 - name: golang.org/x/crypto
-  version: a59c127441a8ae2ad9b0fb300ab36a6558bba697
+  version: 7e9105388ebff089b3f99f0ef676ea55a6da3a7e
   subpackages:
   - ssh/terminal
 - name: golang.org/x/net
-  version: f2499483f923065a842d38eb4c7f1927e6fc6e6d
+  version: 4876518f9e71663000c348837735820161a42df7
   subpackages:
   - context
 - name: golang.org/x/sync
-  version: 450f422ab23cf9881c94e2db30cac0eb1b7cf80c
+  version: f52d1811a62927559de87708c8913c1650ce4f26
   subpackages:
   - errgroup
 - name: golang.org/x/sys
-  version: d75a52659825e75fff6158388dddc6a5b04f9ba5
+  version: 62bee037599929a6e9146f29d10dd5208c43507d
   subpackages:
   - unix
 testImports:
 - name: github.com/davecgh/go-spew
-  version: 6d212800a42e8ab5c146b8ace3490ee17e5225f9
+  version: 04cdfd42973bb9c8589fd6a731800cf222fde1a9
   subpackages:
   - spew
 - name: github.com/pmezard/go-difflib
@@ -43,6 +43,6 @@ testImports:
   subpackages:
   - difflib
 - name: github.com/stretchr/testify
-  version: 69483b4bd14f5845b5a1e55bca19e954e827f1d0
+  version: f6abca593680b2315d2075e0f5e2a9751e3f431a
   subpackages:
   - assert

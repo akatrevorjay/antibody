@@ -3,7 +3,7 @@ package project_test
 import (
 	"testing"
 
-	"github.com/getantibody/antibody/project"
+	"github.com/akatrevorjay/antibody/project"
 	"github.com/stretchr/testify/assert"
 )
 
